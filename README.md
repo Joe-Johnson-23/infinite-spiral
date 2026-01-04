@@ -2,6 +2,10 @@
 
 A mesmerizing double pendulum visualization that demonstrates chaos theory through interactive physics simulation.
 
+## 🔗 Live Demo
+
+**[View the Live Demo →](https://joe-johnson-23.github.io/infinite-spiral/)**
+
 ## Features
 
 - **Double Pendulum Physics**: Real-time simulation of chaotic double pendulum motion
